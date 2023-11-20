@@ -1,4 +1,4 @@
-# Project1-Java-DataTypes
+# Java-DataTypes
 Data types specify the different sizes and values that can be stored in a variable.
 
 # Types of data types
