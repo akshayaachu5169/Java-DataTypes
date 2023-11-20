@@ -1,7 +1,7 @@
 # Project1-Java-DataTypes
 Data types specify the different sizes and values that can be stored in a variable.
 
-#Types of data types
+# Types of data types
 primitive and non primitive data types
 
 
